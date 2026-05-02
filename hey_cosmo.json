@@ -1,8 +1,8 @@
 {
   "type": "micro",
   "wake_word": "Hey Cosmo",
-  "author": "isaac.harries@proton.me",
-  "website": "",
+  "author": "Isaac Harries",
+  "website": "https://www.kevinahrendt.com/",
   "model": "hey_cosmo.tflite",
   "trained_languages": ["en"],
   "version": 2,
