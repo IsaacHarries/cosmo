@@ -3,7 +3,7 @@
   "wake_word": "Hey Cosmo",
   "author": "isaac.harries@proton.me",
   "website": "",
-  "model": "hey_cosmo.tflite",
+  "model": "https://raw.githubusercontent.com/IsaacHarries/cosmo/main/hey_cosmo.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
