@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Cosmo",
   "author": "Isaac Harries",
-  "website": "https://www.kevinahrendt.com/",
+  "website": "https://colab.research.google.com/drive/1F6ki7yEyBmv0BHvLc2uTTcUjniaGE8i3#scrollTo=ex_UIWvwtjAN",
   "model": "hey_cosmo.tflite",
   "trained_languages": ["en"],
   "version": 2,
